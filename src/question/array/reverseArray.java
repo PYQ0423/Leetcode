@@ -7,7 +7,7 @@
  * @create: 2019-06-19 07:42
  **/
 
-package question;
+package question.array;
 
 /**
  *  No.189
@@ -76,7 +76,7 @@ public class reverseArray {
         return array;
     }
 
-    public static void main(String[] args){
+    public static void main(string[] args){
         int nums[] = {1,4,5,7};
         int k = 2;
         reverseArray array = new reverseArray();

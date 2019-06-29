@@ -1,3 +1,5 @@
+package question.array;
+
 class Solution {
 
     public int maxProfit_jyq233(int[] prices){

@@ -1,7 +1,6 @@
-package question;
+package question.array;
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 /**
  * @program: Leetcode

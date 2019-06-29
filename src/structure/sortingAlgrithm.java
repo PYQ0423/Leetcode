@@ -6,6 +6,7 @@ package structure;
  * @create: 2019-06-25 08:25
  **/
 
+//TODO: 还有8个排序算法没写
 public class sortingAlgrithm {
     // bubble sort
     public static void BubbleSort(int[] arr) {

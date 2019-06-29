@@ -1,4 +1,4 @@
-package question;
+package question.array;
 
 import structure.*;
 import static java.util.Arrays.sort;
